@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{32841F1E-EF67-4577-A803-122B49F3E677}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{44C77A5D-5B6B-4E12-B7CD-32B047E9C89C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{32841F1E-EF67-4577-A803-122B49F3E677}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32841F1E-EF67-4577-A803-122B49F3E677}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32841F1E-EF67-4577-A803-122B49F3E677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C77A5D-5B6B-4E12-B7CD-32B047E9C89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C77A5D-5B6B-4E12-B7CD-32B047E9C89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C77A5D-5B6B-4E12-B7CD-32B047E9C89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C77A5D-5B6B-4E12-B7CD-32B047E9C89C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
